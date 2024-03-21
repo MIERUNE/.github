@@ -1,6 +1,4 @@
-# [MIERUNE Inc.](https://www.mierune.co.jp/)
-
-[![Corporate logo](https://github.com/MIERUNE/.github/blob/main/profile/hero.png)](https://www.mierune.co.jp/)
+[![MIERUNE Inc.](https://github.com/MIERUNE/.github/blob/main/profile/hero.png)](https://www.mierune.co.jp/)
 
 - [Website](https://www.mierune.co.jp/)
 - [Qiita](https://qiita.com/organizations/MIERUNE)
