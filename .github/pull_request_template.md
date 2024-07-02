@@ -7,8 +7,8 @@ Close #0
 
 - ...
 
-### Manual Testing（手動テスト）
+### Notes（連絡事項）
 <!-- If manual testing is required, please describe the procedure. -->
-<!-- 手動での動作確認が必要なら、そのやり方を記述してください。-->
+<!-- 手動の動作確認が必要なら、手順を簡単に伝えてください。その他連絡事項など。 -->
 
-Not required / 不要
+- None / なし
