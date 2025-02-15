@@ -1,8 +1,8 @@
 [![MIERUNE Inc.](https://github.com/MIERUNE/.github/blob/main/profile/hero.png)](https://www.mierune.co.jp/)
 
-- [Corporate Website](https://www.mierune.co.jp/) (en, ja)
-- [dev.to](https://dev.to/mierune) (en)
-- [Open Collective](https://opencollective.com/mierune)
-- [Qiita](https://qiita.com/organizations/MIERUNE) (ja)
-- [X (Twitter)](https://twitter.com/mierune_inc) (ja)
-- [note](https://note.com/mierune) (ja)
+- [Corporate Website](https://www.mierune.co.jp/) 🇬🇧 🇯🇵
+- Social: [X](https://twitter.com/mierune_inc) 🇯🇵, [note](https://note.com/mierune) 🇯🇵
+- Dev blogs: [Qiita](https://qiita.com/organizations/MIERUNE) 🇯🇵, [dev.to](https://dev.to/mierune) 🇬🇧
+- Financial Contributions:
+    - MapLibre [Silver Tiler Sponsor](https://maplibre.org/sponsors/) ($10,000/year)
+    - QGIS [Large Sustaining Member](https://qgis.org/funding/membership/members/) (€9,000/year)
